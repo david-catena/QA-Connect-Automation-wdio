@@ -14,8 +14,11 @@ This is a repo to house the POC for the WDIO framework for automation using Webd
 * Clone the repo onto your local
 * cd into the project folder
 * install all of the dependencies and run
+
+```
 $ npm install
 $ npm test
+```
 
 ## Configure locally from scratch
 
