@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1610372906036' stop='1610372908086'>
+    <name>I can delete the entry</name>
+    <title>I can delete the entry</title>
+    <test-cases>
+        <test-case start='1610372906037' status='passed' stop='1610372908085'>
+            <name>can be deleted</name>
+            <title>can be deleted</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9de48860-2f38-471c-884e-4f9d1ac7bef0-attachment.png' type='image/png' size='62523'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

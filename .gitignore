@@ -1,0 +1,7 @@
+test/specs/*.js
+
+package-lock.json
+
+node_modules/
+
+allure0-results/

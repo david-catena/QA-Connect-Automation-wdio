@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1610372656322' stop='1610372756518'>
+    <name>I open up the affilaite page</name>
+    <title>I open up the affilaite page</title>
+    <test-cases>
+        <test-case start='1610372656324' status='passed' stop='1610372751676'>
+            <name>opens up the connect page</name>
+            <title>opens up the connect page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='67512f95-c3ff-471a-bead-74170fa64d1b-attachment.png' type='image/png' size='207666'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372751677' status='passed' stop='1610372752344'>
+            <name>filters and deletes</name>
+            <title>filters and deletes</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f9ad5fa8-f50e-4fbc-b56b-d68b3b7fdd17-attachment.png' type='image/png' size='207666'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372752344' status='passed' stop='1610372756516'>
+            <name>opens up the create page</name>
+            <title>opens up the create page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='654355e8-757a-4d40-8269-67ecbdb4cf64-attachment.png' type='image/png' size='70017'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

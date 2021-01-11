@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1610372657749' stop='1610372717612'>
+    <name>Platform provider can allow for create</name>
+    <title>Platform provider can allow for create</title>
+    <test-cases>
+        <test-case start='1610372657751' status='passed' stop='1610372679199'>
+            <name>loads up the connect site</name>
+            <title>loads up the connect site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9c27ed27-0fe0-4e74-8388-8a63691e3d27-attachment.png' type='image/png' size='125623'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372679205' status='passed' stop='1610372684566'>
+            <name>removes any non deleted instances</name>
+            <title>removes any non deleted instances</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f77f4c1a-06e1-4e4f-8b66-333ee21e4652-attachment.png' type='image/png' size='124895'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372684577' status='passed' stop='1610372686292'>
+            <name>should load up the create page</name>
+            <title>should load up the create page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b024c75b-21d0-4757-aade-fb2adccf3d32-attachment.png' type='image/png' size='40262'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372686293' status='passed' stop='1610372690432'>
+            <name>should allow for the creation of a new platform provider</name>
+            <title>should allow for the creation of a new platform provider</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a8fe9efa-c49a-4b13-afc1-578c9629ddd6-attachment.png' type='image/png' size='62570'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372690432' status='passed' stop='1610372691325'>
+            <name>will allow for the saving of the object id</name>
+            <title>will allow for the saving of the object id</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fd782a71-f848-4248-aeda-b53eb78b024e-attachment.png' type='image/png' size='62570'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372691325' status='passed' stop='1610372711739'>
+            <name>verifies that the entry can be edited</name>
+            <title>verifies that the entry can be edited</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d0568668-3c1b-44a3-a67d-b5c1a4fdaeaf-attachment.png' type='image/png' size='125798'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372711740' status='passed' stop='1610372717607'>
+            <name>verifies that the entry can be deleted</name>
+            <title>verifies that the entry can be deleted</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='74ddd3da-fb20-40e4-8fd4-238b0fb660b3-attachment.png' type='image/png' size='137997'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

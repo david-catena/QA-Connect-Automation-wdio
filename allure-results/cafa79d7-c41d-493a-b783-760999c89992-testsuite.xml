@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1610372895121' stop='1610372906027'>
+    <name>I can edit an entry</name>
+    <title>I can edit an entry</title>
+    <test-cases>
+        <test-case start='1610372895121' status='passed' stop='1610372897294'>
+            <name>can edit from the listview</name>
+            <title>can edit from the listview</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='81d85237-b1ab-4197-8e68-0f9ee32f08a4-attachment.png' type='image/png' size='67003'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372897294' status='passed' stop='1610372906027'>
+            <name>can edit in page</name>
+            <title>can edit in page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8597d76a-0f6c-4801-b055-4b22e02224cb-attachment.png' type='image/png' size='69679'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

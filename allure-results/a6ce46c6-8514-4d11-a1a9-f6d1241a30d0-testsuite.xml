@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1610372813340' stop='1610372823390'>
+    <name>I modify the username</name>
+    <title>I modify the username</title>
+    <test-cases>
+        <test-case start='1610372813340' status='passed' stop='1610372815106'>
+            <name>changes the username</name>
+            <title>changes the username</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2eb3e812-9026-4b74-b9a0-4a458247563f-attachment.png' type='image/png' size='127412'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372815106' status='passed' stop='1610372817960'>
+            <name>saves successfully</name>
+            <title>saves successfully</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='92cae890-6c42-4cce-8979-0ffe832c6fc6-attachment.png' type='image/png' size='114012'/>
+            </attachments>
+        </test-case>
+        <test-case start='1610372817960' status='passed' stop='1610372823390'>
+            <name>changes back to the old username</name>
+            <title>changes back to the old username</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='88e2fab9-833a-435c-966e-97fd236d6c9e-attachment.png' type='image/png' size='131493'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
